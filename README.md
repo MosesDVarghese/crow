@@ -7,11 +7,11 @@ Desc
 
 ## Run
 
-'''bash
+```bash
 cd build/
 
 cmake .. && make && ./crow
-'''
+```
 
 ## Adding files
 
