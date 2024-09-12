@@ -1,7 +1,10 @@
 #include <iostream>
 
-#include "leetcode/math/p412_fizzbuzz.h" // problem
-#include "utils/vectors/vectors.h"       // utils
+// #include "leetcode/math/p326_pofthree.h" // problem
+// #include "leetcode/math/p204_cntprims.h" // problem
+// #include "leetcode/math/p412_fizzbuzz.h" // problem
+#include "leetcode/math/p013_rmntoint.h"
+#include "utils/vectors/vectors.h" // utils
 
 int main() {
   std::cout << "Hello from crow!\n";
@@ -9,11 +12,25 @@ int main() {
   // Create an instance of the Solution class
   Solution solution;
 
-  // Call the problem function
-  vector<string> result = solution.fizzBuzz(15);
+  int n = 15;
 
-  // Use the printVector utility function to print the result
-  printVector(result);
+  // bool result
+  // bool result = solution.isPowerOfThree(15);
+
+  // int result
+  int result = solution.romanToInt("XVI");
+
+  // vec(string) result
+  // vector<string> result = solution.fizzBuzz(15);
+
+  // print int result
+  std::cout << (result) << std::endl;
+
+  // print boolean result
+  // std::cout << (result ? "True" : "False") << std::endl;
+
+  // print vec result
+  // printVector(result);
 
   return 0;
 }

@@ -1,2 +1,2 @@
-/usr/bin/ar qc libleetcode.a CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o
+/usr/bin/ar qc libleetcode.a CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.o CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.o CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.o
 /usr/bin/ranlib libleetcode.a

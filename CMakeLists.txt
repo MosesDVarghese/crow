@@ -17,7 +17,7 @@ add_subdirectory(src/leetcode)
 add_executable(crow src/main.cpp)
 
 # Link the somedir library to the executable
-# link utils librari
+# link utils library
 target_link_libraries(crow PRIVATE utils)
 
 # link other libraries

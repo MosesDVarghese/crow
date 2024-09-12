@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/CppProject.dir/src/leetcode/math/p412_fizzbuzz.cpp.o CMakeFiles/CppProject.dir/src/main.cpp.o -o CppProject

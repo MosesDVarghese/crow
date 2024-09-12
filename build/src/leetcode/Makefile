@@ -130,6 +130,78 @@ leetcode/fast:
 	cd /home/omu/Codespace/test/ccpp/crow/build && $(MAKE) $(MAKESILENT) -f src/leetcode/CMakeFiles/leetcode.dir/build.make src/leetcode/CMakeFiles/leetcode.dir/build
 .PHONY : leetcode/fast
 
+math/p013_rmntoint.o: math/p013_rmntoint.cpp.o
+.PHONY : math/p013_rmntoint.o
+
+# target to build an object file
+math/p013_rmntoint.cpp.o:
+	cd /home/omu/Codespace/test/ccpp/crow/build && $(MAKE) $(MAKESILENT) -f src/leetcode/CMakeFiles/leetcode.dir/build.make src/leetcode/CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.o
+.PHONY : math/p013_rmntoint.cpp.o
+
+math/p013_rmntoint.i: math/p013_rmntoint.cpp.i
+.PHONY : math/p013_rmntoint.i
+
+# target to preprocess a source file
+math/p013_rmntoint.cpp.i:
+	cd /home/omu/Codespace/test/ccpp/crow/build && $(MAKE) $(MAKESILENT) -f src/leetcode/CMakeFiles/leetcode.dir/build.make src/leetcode/CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.i
+.PHONY : math/p013_rmntoint.cpp.i
+
+math/p013_rmntoint.s: math/p013_rmntoint.cpp.s
+.PHONY : math/p013_rmntoint.s
+
+# target to generate assembly for a file
+math/p013_rmntoint.cpp.s:
+	cd /home/omu/Codespace/test/ccpp/crow/build && $(MAKE) $(MAKESILENT) -f src/leetcode/CMakeFiles/leetcode.dir/build.make src/leetcode/CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.s
+.PHONY : math/p013_rmntoint.cpp.s
+
+math/p204_cntprims.o: math/p204_cntprims.cpp.o
+.PHONY : math/p204_cntprims.o
+
+# target to build an object file
+math/p204_cntprims.cpp.o:
+	cd /home/omu/Codespace/test/ccpp/crow/build && $(MAKE) $(MAKESILENT) -f src/leetcode/CMakeFiles/leetcode.dir/build.make src/leetcode/CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.o
+.PHONY : math/p204_cntprims.cpp.o
+
+math/p204_cntprims.i: math/p204_cntprims.cpp.i
+.PHONY : math/p204_cntprims.i
+
+# target to preprocess a source file
+math/p204_cntprims.cpp.i:
+	cd /home/omu/Codespace/test/ccpp/crow/build && $(MAKE) $(MAKESILENT) -f src/leetcode/CMakeFiles/leetcode.dir/build.make src/leetcode/CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.i
+.PHONY : math/p204_cntprims.cpp.i
+
+math/p204_cntprims.s: math/p204_cntprims.cpp.s
+.PHONY : math/p204_cntprims.s
+
+# target to generate assembly for a file
+math/p204_cntprims.cpp.s:
+	cd /home/omu/Codespace/test/ccpp/crow/build && $(MAKE) $(MAKESILENT) -f src/leetcode/CMakeFiles/leetcode.dir/build.make src/leetcode/CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.s
+.PHONY : math/p204_cntprims.cpp.s
+
+math/p326_pofthree.o: math/p326_pofthree.cpp.o
+.PHONY : math/p326_pofthree.o
+
+# target to build an object file
+math/p326_pofthree.cpp.o:
+	cd /home/omu/Codespace/test/ccpp/crow/build && $(MAKE) $(MAKESILENT) -f src/leetcode/CMakeFiles/leetcode.dir/build.make src/leetcode/CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.o
+.PHONY : math/p326_pofthree.cpp.o
+
+math/p326_pofthree.i: math/p326_pofthree.cpp.i
+.PHONY : math/p326_pofthree.i
+
+# target to preprocess a source file
+math/p326_pofthree.cpp.i:
+	cd /home/omu/Codespace/test/ccpp/crow/build && $(MAKE) $(MAKESILENT) -f src/leetcode/CMakeFiles/leetcode.dir/build.make src/leetcode/CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.i
+.PHONY : math/p326_pofthree.cpp.i
+
+math/p326_pofthree.s: math/p326_pofthree.cpp.s
+.PHONY : math/p326_pofthree.s
+
+# target to generate assembly for a file
+math/p326_pofthree.cpp.s:
+	cd /home/omu/Codespace/test/ccpp/crow/build && $(MAKE) $(MAKESILENT) -f src/leetcode/CMakeFiles/leetcode.dir/build.make src/leetcode/CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.s
+.PHONY : math/p326_pofthree.cpp.s
+
 math/p412_fizzbuzz.o: math/p412_fizzbuzz.cpp.o
 .PHONY : math/p412_fizzbuzz.o
 
@@ -163,6 +235,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... leetcode"
+	@echo "... math/p013_rmntoint.o"
+	@echo "... math/p013_rmntoint.i"
+	@echo "... math/p013_rmntoint.s"
+	@echo "... math/p204_cntprims.o"
+	@echo "... math/p204_cntprims.i"
+	@echo "... math/p204_cntprims.s"
+	@echo "... math/p326_pofthree.o"
+	@echo "... math/p326_pofthree.i"
+	@echo "... math/p326_pofthree.s"
 	@echo "... math/p412_fizzbuzz.o"
 	@echo "... math/p412_fizzbuzz.i"
 	@echo "... math/p412_fizzbuzz.s"

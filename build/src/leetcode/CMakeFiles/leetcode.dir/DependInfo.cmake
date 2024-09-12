@@ -8,6 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p013_rmntoint.cpp" "src/leetcode/CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.o" "gcc" "src/leetcode/CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.o.d"
+  "/home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p204_cntprims.cpp" "src/leetcode/CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.o" "gcc" "src/leetcode/CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.o.d"
+  "/home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p326_pofthree.cpp" "src/leetcode/CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.o" "gcc" "src/leetcode/CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.o.d"
   "/home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p412_fizzbuzz.cpp" "src/leetcode/CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o" "gcc" "src/leetcode/CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o.d"
   )
 

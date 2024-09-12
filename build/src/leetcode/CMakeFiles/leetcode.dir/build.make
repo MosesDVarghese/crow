@@ -69,10 +69,24 @@ include src/leetcode/CMakeFiles/leetcode.dir/progress.make
 # Include the compile flags for this target's objects.
 include src/leetcode/CMakeFiles/leetcode.dir/flags.make
 
+src/leetcode/CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.o: src/leetcode/CMakeFiles/leetcode.dir/flags.make
+src/leetcode/CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.o: /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p204_cntprims.cpp
+src/leetcode/CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.o: src/leetcode/CMakeFiles/leetcode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/omu/Codespace/test/ccpp/crow/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/leetcode/CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.o"
+	cd /home/omu/Codespace/test/ccpp/crow/build/src/leetcode && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/leetcode/CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.o -MF CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.o.d -o CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.o -c /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p204_cntprims.cpp
+
+src/leetcode/CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.i"
+	cd /home/omu/Codespace/test/ccpp/crow/build/src/leetcode && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p204_cntprims.cpp > CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.i
+
+src/leetcode/CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.s"
+	cd /home/omu/Codespace/test/ccpp/crow/build/src/leetcode && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p204_cntprims.cpp -o CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.s
+
 src/leetcode/CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o: src/leetcode/CMakeFiles/leetcode.dir/flags.make
 src/leetcode/CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o: /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p412_fizzbuzz.cpp
 src/leetcode/CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o: src/leetcode/CMakeFiles/leetcode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/omu/Codespace/test/ccpp/crow/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/leetcode/CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/omu/Codespace/test/ccpp/crow/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/leetcode/CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o"
 	cd /home/omu/Codespace/test/ccpp/crow/build/src/leetcode && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/leetcode/CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o -MF CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o.d -o CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o -c /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p412_fizzbuzz.cpp
 
 src/leetcode/CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.i: cmake_force
@@ -83,17 +97,51 @@ src/leetcode/CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.s"
 	cd /home/omu/Codespace/test/ccpp/crow/build/src/leetcode && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p412_fizzbuzz.cpp -o CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.s
 
+src/leetcode/CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.o: src/leetcode/CMakeFiles/leetcode.dir/flags.make
+src/leetcode/CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.o: /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p326_pofthree.cpp
+src/leetcode/CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.o: src/leetcode/CMakeFiles/leetcode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/omu/Codespace/test/ccpp/crow/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/leetcode/CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.o"
+	cd /home/omu/Codespace/test/ccpp/crow/build/src/leetcode && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/leetcode/CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.o -MF CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.o.d -o CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.o -c /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p326_pofthree.cpp
+
+src/leetcode/CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.i"
+	cd /home/omu/Codespace/test/ccpp/crow/build/src/leetcode && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p326_pofthree.cpp > CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.i
+
+src/leetcode/CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.s"
+	cd /home/omu/Codespace/test/ccpp/crow/build/src/leetcode && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p326_pofthree.cpp -o CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.s
+
+src/leetcode/CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.o: src/leetcode/CMakeFiles/leetcode.dir/flags.make
+src/leetcode/CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.o: /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p013_rmntoint.cpp
+src/leetcode/CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.o: src/leetcode/CMakeFiles/leetcode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/omu/Codespace/test/ccpp/crow/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/leetcode/CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.o"
+	cd /home/omu/Codespace/test/ccpp/crow/build/src/leetcode && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/leetcode/CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.o -MF CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.o.d -o CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.o -c /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p013_rmntoint.cpp
+
+src/leetcode/CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.i"
+	cd /home/omu/Codespace/test/ccpp/crow/build/src/leetcode && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p013_rmntoint.cpp > CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.i
+
+src/leetcode/CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.s"
+	cd /home/omu/Codespace/test/ccpp/crow/build/src/leetcode && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/omu/Codespace/test/ccpp/crow/src/leetcode/math/p013_rmntoint.cpp -o CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.s
+
 # Object files for target leetcode
 leetcode_OBJECTS = \
-"CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o"
+"CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.o" \
+"CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o" \
+"CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.o" \
+"CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.o"
 
 # External object files for target leetcode
 leetcode_EXTERNAL_OBJECTS =
 
+src/leetcode/libleetcode.a: src/leetcode/CMakeFiles/leetcode.dir/math/p204_cntprims.cpp.o
 src/leetcode/libleetcode.a: src/leetcode/CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o
+src/leetcode/libleetcode.a: src/leetcode/CMakeFiles/leetcode.dir/math/p326_pofthree.cpp.o
+src/leetcode/libleetcode.a: src/leetcode/CMakeFiles/leetcode.dir/math/p013_rmntoint.cpp.o
 src/leetcode/libleetcode.a: src/leetcode/CMakeFiles/leetcode.dir/build.make
 src/leetcode/libleetcode.a: src/leetcode/CMakeFiles/leetcode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/omu/Codespace/test/ccpp/crow/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libleetcode.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/omu/Codespace/test/ccpp/crow/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library libleetcode.a"
 	cd /home/omu/Codespace/test/ccpp/crow/build/src/leetcode && $(CMAKE_COMMAND) -P CMakeFiles/leetcode.dir/cmake_clean_target.cmake
 	cd /home/omu/Codespace/test/ccpp/crow/build/src/leetcode && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/leetcode.dir/link.txt --verbose=$(VERBOSE)
 
