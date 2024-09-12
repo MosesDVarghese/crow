@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/crow.dir/src/main.cpp.o -o crow  src/utils/libutils.a src/leetcode/libleetcode.a

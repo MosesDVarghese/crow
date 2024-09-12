@@ -1,0 +1,2 @@
+/usr/bin/ar qc libleetcode.a CMakeFiles/leetcode.dir/math/p412_fizzbuzz.cpp.o
+/usr/bin/ranlib libleetcode.a

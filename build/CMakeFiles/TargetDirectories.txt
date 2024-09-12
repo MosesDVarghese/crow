@@ -1,0 +1,9 @@
+/home/omu/Codespace/test/ccpp/crow/build/CMakeFiles/crow.dir
+/home/omu/Codespace/test/ccpp/crow/build/CMakeFiles/edit_cache.dir
+/home/omu/Codespace/test/ccpp/crow/build/CMakeFiles/rebuild_cache.dir
+/home/omu/Codespace/test/ccpp/crow/build/src/utils/CMakeFiles/utils.dir
+/home/omu/Codespace/test/ccpp/crow/build/src/utils/CMakeFiles/edit_cache.dir
+/home/omu/Codespace/test/ccpp/crow/build/src/utils/CMakeFiles/rebuild_cache.dir
+/home/omu/Codespace/test/ccpp/crow/build/src/leetcode/CMakeFiles/leetcode.dir
+/home/omu/Codespace/test/ccpp/crow/build/src/leetcode/CMakeFiles/edit_cache.dir
+/home/omu/Codespace/test/ccpp/crow/build/src/leetcode/CMakeFiles/rebuild_cache.dir
